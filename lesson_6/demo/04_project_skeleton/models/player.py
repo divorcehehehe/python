@@ -1,0 +1,10 @@
+class Player:
+    def __init__(self, name):
+        self.name = name
+        self.score = 0
+
+    def add_score(self, points):
+        self.score += points
+
+    def __str__(self):
+        return f'{self.name}: {self.score}'

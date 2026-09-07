@@ -1,0 +1,15 @@
+python
+laptop
+keyboard
+monitor
+function
+variable
+module
+library
+project
+console
+developer
+algorithm
+compiler
+network
+database
